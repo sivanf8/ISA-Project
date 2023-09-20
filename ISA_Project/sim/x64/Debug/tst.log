@@ -1,0 +1,10 @@
+﻿  tst.c
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(304,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(309,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(323,21): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(357,39): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[9]'
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(357,29): warning C4024: 'Int_to_Hex_Arr': different types for formal and actual parameter 2
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(360,40): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[9]'
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(360,30): warning C4024: 'Int_to_Hex_Arr': different types for formal and actual parameter 2
+C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\tst.c(298): warning C4715: 'Hex_char_to_int': not all control paths return a value
+  tst.vcxproj -> C:\Users\ADMIN\Desktop\תואר ראשון חשמל\חשמל שנה ג\סמסטר ב\מבנה המחשב\project1_315977157_208536474_316275478_209343649\sim\x64\Debug\tst.exe

@@ -1,0 +1,7 @@
+﻿  asm.c
+C:\Users\liran\source\repos\asm\asm.c(246,32): warning C4047: '=': 'char' differs in levels of indirection from 'char [9]'
+C:\Users\liran\source\repos\asm\asm.c(135): warning C4715: 'Hex_char_to_int': not all control paths return a value
+C:\Users\liran\source\repos\asm\asm.c(150): warning C4715: 'int_to_hex_char': not all control paths return a value
+C:\Users\liran\source\repos\asm\asm.c(332): warning C4715: 'imm_to_num': not all control paths return a value
+C:\Users\liran\source\repos\asm\asm.c(225): warning C4715: 'kind_of_line': not all control paths return a value
+  asm.vcxproj -> C:\Users\liran\source\repos\asm\Debug\asm.exe
